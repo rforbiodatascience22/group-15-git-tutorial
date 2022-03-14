@@ -1,8 +1,14 @@
+aldis wrote this line
 
 
+<<<<<<< HEAD
 some change by mikkel
 
 
+=======
+
+happy b-day aldis!
+>>>>>>> 2c4ca024ed49acd890a352bbde33b4db127c6751
 
 
 
