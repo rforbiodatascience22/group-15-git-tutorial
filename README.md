@@ -1,2 +1,2 @@
 # group-15-git-tutorial
-Hey
+This repo is a test repo for the 7th exercise at the R for Bio Data Science course. This will most likely be a boring repo for anyone else but ourselves. One that note, you are still welcome to take a look.
